@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ZoltanGal]]></title>
+        <description><![CDATA[ZoltanGal]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 06 May 2016 07:35:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Version:1.0 StartHTML:0000000167 EndHTML:0000005554 StartFragment:0000000454 EndFragment:0000005538 </p>]]></description>
+            <link>undefinedversion10-starthtml0000000167-endhtml0000005554-startfra/index.html</link>
+            <guid isPermaLink="false">9a3e1653-2c74-488f-8130-aa56938e7946</guid>
+            <pubDate>Fri, 06 May 2016 07:34:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
