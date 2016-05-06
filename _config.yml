@@ -1,0 +1,28 @@
+name: ZoltanGal
+favicon: null
+layout_spectrum: 0.28125642612576485
+typography_spectrum: 0.11954186833463609
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.33587254025042057
+  lightness: 0.6104379375465214
+  saturation: 0.1066576368175447
+  rhythmicContrast: 0.9534425470046699
+purpose: []
